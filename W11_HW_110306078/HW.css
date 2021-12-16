@@ -1,0 +1,34 @@
+<style type="text/css">
+    	body{font-family: arial, helvetica, sans-serif;}
+    	a.nodec{text-decoration: none;}
+    	a:hover{text-decoration: unferline;}
+    	li{font-weight: bold;}
+    	li em{text-decoration: line-through;}
+    	h1, em{text-decoration: underline;}
+    	ul{margin-left: 20px;}
+    	span{color: green; border: 1px solid black;}
+    	.extra span{color: inherit;}
+    	.marginal-left{
+	position: absolute;
+	margin-top: 50px;
+	margin-left: 150px;
+	margin-right: 900px;
+}
+.marginal-right{
+	margin-top: 50px;
+	margin-right: 150px;
+	margin-left: 900px;
+	position: absolute;
+}
+.half{
+	margin-left: 50%
+}
+.lab1{
+	border-style: groove;
+	border-color: whitesmoke;
+}
+.lab2{
+	border-style: groove;
+	border-color: whitesmoke;
+}
+    </style>
